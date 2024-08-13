@@ -12,3 +12,5 @@ This component has been tested in the following browsers:
 - Safari
 - Chrome Mac OS & Android
 - Firefox Mac OS & Android
+  
+This project is tested with BrowserStack.
