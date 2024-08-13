@@ -1,5 +1,5 @@
 
-This project is tested with BrowserStack
+This project is tested with BrowserStack.
 
 # React QR WebWorker ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
